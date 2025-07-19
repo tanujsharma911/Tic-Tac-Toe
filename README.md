@@ -20,7 +20,11 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, **JavaScript**, and **Ta
     ```bash
     cd tic-tac-toe
     ```
-3. **Open `index.html` in your browser.**
+3. **Installs all required(Tailwind) packages:**
+    ```bash
+    cd tic-tac-toe
+    ```
+4. **Open `index.html` in your browser.**
 
 No additional setup is required.
 
