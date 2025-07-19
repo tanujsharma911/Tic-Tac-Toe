@@ -22,7 +22,7 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, **JavaScript**, and **Ta
     ```
 3. **Installs all required(Tailwind) packages:**
     ```bash
-    cd tic-tac-toe
+    npm install
     ```
 4. **Open `index.html` in your browser.**
 
