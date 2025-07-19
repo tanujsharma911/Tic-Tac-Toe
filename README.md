@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-[Live Demo](https://your-live-link-here.com)
+[Live Demo](https://your-live-link-here.com](https://tanujsharma911.github.io/Tic-Tac-Toe/)
 
 A simple Tic Tac Toe game built with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**. This project was created to practice DOM manipulation, Git, and Tailwind CSS.
 
@@ -14,7 +14,7 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, **JavaScript**, and **Ta
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/tanujsharma911/tic-tac-toe.git
     ```
 2. **Navigate to the project folder:**
     ```bash
